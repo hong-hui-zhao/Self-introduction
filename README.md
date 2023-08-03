@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zhh12345678
+- 👋 Hi, I’m honghuizhao (赵洪辉)
 - 👀 I’m interested in R/C/Python,if you have any study tips, can you contact me?
-- 🌱 I’m currently learning R/C
-- 💞️ I’m study by myself,i live in and stduy in lanzhou university.lanzhou PRC 730000
+- 🌱 I’m currently learning Single cell analysis and bulk RNA-seq.
+- 💞️ I’m study by myself.
 - 📫 How to reach me :hhzhao21@lzu.edu.cn
